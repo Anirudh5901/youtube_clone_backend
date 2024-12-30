@@ -11,5 +11,8 @@
   ],
   "author": "Ani",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
 }
